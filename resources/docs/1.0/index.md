@@ -1,0 +1,4 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+    - [System Requirements](/{{route}}/{{version}}/system-requirements)
+    - [Installation](/{{route}}/{{version}}/installation)
